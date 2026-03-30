@@ -121,7 +121,7 @@ This is **not** a standard HR report with a few bar charts. It is a **four-layer
 
 #### 📸 Screenshot
 
-![HR Analytics - Page 1 Overview Dashboard Screenshot](page1_Overview.png)
+![HR Analytics - Page 1 Overview Dashboard Screenshot](screenshots/page1_Overview.png)
 
 <div align="center"><sub>↑ Page 1 · Overview — Full executive dashboard snapshot</sub></div>
 
@@ -185,7 +185,7 @@ The Overview page is the **executive command centre** of the entire dashboard. B
 
 #### 📸 Screenshot
 
-![HR Analytics - Page 2 Insights Dashboard Screenshot](page2_Insights.png)
+![HR Analytics - Page 2 Insights Dashboard Screenshot](screenshots/page2_Insights.png)
 
 <div align="center"><sub>↑ Page 2 · Insights — Deep dive into attrition root causes</sub></div>
 
@@ -246,7 +246,7 @@ The Insights page moves from *what* to *why*. It connects six key attrition driv
 
 #### 📸 Screenshot
 
-![HR Analytics - Page 3 Analysis Dashboard Screenshot](page_Analysis.png)
+![HR Analytics - Page 3 Analysis Dashboard Screenshot](screenshots/page3_Analysis.png)
 
 <div align="center"><sub>↑ Page 3 · Analysis — AI-powered risk identification and retention patterns</sub></div>
 
@@ -322,7 +322,7 @@ The Analysis page is the **most technically advanced page** of the dashboard. It
 
 #### 📸 Screenshot
 
-![HR Analytics - Page 4 Strategy Dashboard Screenshot](page4_Strategy.png)
+![HR Analytics - Page 4 Strategy Dashboard Screenshot](screenshots/page4_Strategy.png)
 
 <div align="center"><sub>↑ Page 4 · Strategy — Boardroom-ready decision framework with projected ROI</sub></div>
 
