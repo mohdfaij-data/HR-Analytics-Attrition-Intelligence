@@ -782,7 +782,6 @@ Architecture: Single flat table · No relationships · All segmentation via
 | **Power BI Desktop** | Latest (2024) | Dashboard development, all visuals, publishing |
 | **Power Query (M Language)** | Built-in | Data import, cleaning, transformation |
 | **DAX** | Built-in | All 25+ measures + 6 calculated columns |
-| **Power BI Theme JSON** | Custom | Ultra-dark gold visual theme |
 | **Key Influencers Visual** | AI Visual (built-in) | Statistical attrition driver ranking (Page 3) |
 | **Power BI Service** | Cloud | Live dashboard publishing & sharing |
 | **IBM HR Analytics Dataset** | Kaggle | Source dataset — 1,470 employees × 35 attributes |
