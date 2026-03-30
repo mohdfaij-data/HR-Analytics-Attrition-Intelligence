@@ -81,6 +81,16 @@
 
 ---
 
+## 📄 Analysis Report
+
+[![📊 View Report](https://img.shields.io/badge/📊%20View%20Report-HR%20Attrition%20Insights-blue?style=for-the-badge&logo=readthedocs)](./HR_Attrition_Insights_Report.pdf)
+
+<p align="center">
+A complete data-driven report highlighting key attrition trends, risk factors, and actionable insights using SQL, Python, and Power BI.
+</p>
+
+---
+
 <!-- ████████████████████████  WHAT IS THIS  ████████████████████████ -->
 
 ## 🧠 What Is This Dashboard?
