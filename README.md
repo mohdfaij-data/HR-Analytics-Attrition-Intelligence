@@ -768,9 +768,8 @@ Architecture: Single flat table · No relationships · All segmentation via
 │   ├── 📝 04_overtime_tenure_measures.dax          ← OT rate, tenure, early-stage
 │   ├── 📝 05_satisfaction_demographic_measures.dax ← Gender, satisfaction, dept
 │   └── 📝 06_calculated_columns.dax                ← Age seg, tenure grp, risk cat
-│
-└── 📁 theme/
-    └── 🎨 HR_Attrition_Theme.json                  ← Full custom dark gold Power BI theme
+
+
 ```
 
 
@@ -787,41 +786,6 @@ Architecture: Single flat table · No relationships · All segmentation via
 | **Key Influencers Visual** | AI Visual (built-in) | Statistical attrition driver ranking (Page 3) |
 | **Power BI Service** | Cloud | Live dashboard publishing & sharing |
 | **IBM HR Analytics Dataset** | Kaggle | Source dataset — 1,470 employees × 35 attributes |
-
----
-
-<!-- ████████████████████████  GETTING STARTED  ████████████████████████ -->
-
-## 🚀 Getting Started
-
-**Prerequisites:** Power BI Desktop (June 2023 or later)
-
-```bash
-# ── Step 1: Clone this repository ────────────────────────────────────────
-git clone https://github.com/YOUR_USERNAME/HR-Analytics-Employee-Attrition-Intelligence.git
-cd HR-Analytics-Employee-Attrition-Intelligence
-
-# ── Step 2: Open the Power BI file ───────────────────────────────────────
-# File → Open Report → HR_Attrition_Intelligence.pbix
-
-# ── Step 3: Fix data source path (if needed) ─────────────────────────────
-# Home → Transform Data → Data Source Settings
-# → Change Source → update to: /dataset/IBM_HR_Employee_Attrition.csv
-# → Click OK → Close & Apply
-
-# ── Step 4: Apply custom theme (if not auto-loaded) ──────────────────────
-# View tab → Themes → Browse for themes
-# → Navigate to /theme/HR_Attrition_Theme.json → Open
-
-# ── Step 5: Explore all 4 pages ──────────────────────────────────────────
-# Use the navigation buttons at the top: Overview | Insights | Analysis
-# Use the High Risk / Low Risk filter buttons
-# Use the Department slicer (Page 1) and tenure/salary slicers (Pages 2-3)
-
-# ── Step 6: Publish to Power BI Service (optional) ───────────────────────
-# Home tab → Publish → Select your Workspace → Publish
-# → Copy the report URL and update the Live Dashboard button in this README
-```
 
 ---
 
